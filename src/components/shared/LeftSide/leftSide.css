@@ -1,0 +1,10 @@
+.left-side-menu {
+  margin-bottom: 12px;
+}
+.left-side-menu a {
+  text-decoration: none;
+  color: rgb(192, 132, 2);
+}
+.category-heading {
+  margin-bottom: 20px;
+}
